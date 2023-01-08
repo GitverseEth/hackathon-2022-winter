@@ -1,1 +1,0 @@
-# go-staking-portal-service
